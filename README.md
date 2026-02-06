@@ -18,3 +18,8 @@ Sprint 1 Completed:
 
 Sprint 2:
 Implementation started.
+
+## Prototype (Figma)
+
+Figma Prototype Link:
+https://www.figma.com/site/rtQRhrHFXzoOmYOsE1NJzk/Untitled?node-id=0-3&t=RZRvH5CmqYiWGv6c-1
