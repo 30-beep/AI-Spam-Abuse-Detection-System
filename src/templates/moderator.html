@@ -1,0 +1,10 @@
+<h2>Moderator Dashboard</h2>
+
+<h3>Flagged Comments</h3>
+
+{% for c in comments %}
+<p>{{c.text}} - {{c.status}}</p>
+<button>Approve</button>
+<button>Delete</button>
+<button>Ban User</button>
+{% endfor %}
