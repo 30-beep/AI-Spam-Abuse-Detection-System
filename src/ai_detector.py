@@ -12,3 +12,5 @@ def analyze_comment(comment):
     for word in spam_words:
         if word in comment:
             return "Spam"
+
+    return "Safe"
